@@ -1,4 +1,4 @@
-// {
+//    {
 //         id: new Date().getTime(),
 //         title: 'Cumpleaños del jefe',
 //         start: moment().toDate(),
@@ -8,7 +8,6 @@
 //         user: {
 //             _id: '123',
 //             name: 'Fernando'
-//         }
 //     }
 
 import { types } from "../types/types";

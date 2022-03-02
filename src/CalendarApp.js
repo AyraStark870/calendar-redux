@@ -5,7 +5,6 @@ import { store } from "./store/store";
 import { AppRouter } from "./router/AppRouter";
 
 export const CalendarApp = () => {
-  console.log("***", store);
   return (
     <Provider store={store}>
       <AppRouter />

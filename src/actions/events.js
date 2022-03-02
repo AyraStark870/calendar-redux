@@ -1,4 +1,3 @@
-import { useSelector } from "react-redux";
 import Swal from "sweetalert2";
 import { fetchConToken } from "../helpers/fetch";
 import { prepareEvents } from "../helpers/prepareEvents";
